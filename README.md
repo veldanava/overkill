@@ -1,4 +1,4 @@
 <div align="center">
-<img src="![bg](https://github.com/veldanava/overkill/assets/86060881/fedd68ef-e833-42f6-b98d-ceb016d9cd52)
-" alt="OVERKILL">
+![bg](https://github.com/veldanava/overkill/assets/86060881/4d96af33-2e42-42d3-b062-7640c82e9fa8)
+  
 </div>
